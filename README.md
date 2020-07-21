@@ -14,4 +14,4 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ![alt text](images/Category.png)
 
 
-2. For the sub-categories, there are several of them have 100% successful rate (Rock, Documentary, Hardware, Tabletop games, Television, etc.) Although we cannot say these sub-categories are guaranteed to be successful without further information, they are still more likely to be succeed comparing with other sub-categories.
+2. For the sub-categories, there are several of them have 100% successful rate (Rock, Documentary, Hardware, Tabletop games, Television, etc.) Although we cannot say these sub-categories are guaranteed to be successful without further information, they are still more likely to be succeed comparing with other sub-categories. “Plays” under the parent category “Theater” has the largest number of both total number of projects (n = 1066), as well as number of successful projects (n = 694). It is obvious that the current market has an interest on projects fall under this category.
