@@ -23,5 +23,4 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ![alt text](images/Date created.png)
 
-
 ### Limitations
