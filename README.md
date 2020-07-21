@@ -17,3 +17,11 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 2. For the sub-categories, there are several of them have 100% successful rate (Rock, Documentary, Hardware, Tabletop games, Television, etc.) Although we cannot say these sub-categories are guaranteed to be successful without further information, they are still more likely to be succeed comparing with other sub-categories. “Plays” under the parent category “Theater” has the largest number of both total number of projects (n = 1066), as well as number of successful projects (n = 694). It is obvious that the current market has an interest on projects fall under this category.
 
 ![alt text](images/Sub-category.png)
+
+
+3. When we look at the date each project were launched, the projects that were launched in May are more likely ended up being successful (n = 234) comparing with those were launched in December (n = 111). With that being said, date that a project was launched could be a factor that impact whether or not it get a positive outcome.  
+
+![alt text](images/Date created.png)
+
+
+### Limitations
