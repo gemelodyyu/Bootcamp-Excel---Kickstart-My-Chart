@@ -7,7 +7,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Analysis Report
 
-### Conclusions 
+### Conclusions we can draw about Kickstarter campaigns
 
 1. Out of the 9 categories, “Theater” has the largest number of total projects (n = 1393). It also has the largest number of successful projects (n = 839). The category that has the highest successful rate is “Music” (77.14%), followed by “Theater” (60.23%) and “Film & Video” (57.69%). Thereby, current data suggests that projects in these categories are more likely to be successful comparing with other categories. However, “Theater” category also has the largest number of failed projects (n = 493). It also should be noted that “Technology” has the largest number and rate of canceled project (178 out of 600). It is hard to find out a reason without more details about the projects, so hope there will be additional information provided for a more in-depth analysis. 
 
@@ -24,4 +24,15 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ![alt text](https://github.com/gemelodyyu/Kickstart-Campaigns-Analysis/blob/master/images/Date%20created.png)
 
 
-### Limitations
+### Limitations of this dataset
+
+
+### What are some other possible tables and/or graphs that we could create?
+
+
+### * Backers count Statistical Analysis
+#### * Use your data to determine whether the mean or the median summarizes the data more meaningfully.
+
+
+#### * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
