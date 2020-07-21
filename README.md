@@ -32,7 +32,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ### * Backers count Statistical Analysis
 #### * Use your data to determine whether the mean or the median summarizes the data more meaningfully.
-
+![alt text](https://github.com/gemelodyyu/Kickstart-Campaigns-Analysis/blob/master/images/backers%20count%20summary.png)
 
 #### * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
