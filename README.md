@@ -21,6 +21,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 3. When we look at the date each project were launched, the projects that were launched in May are more likely ended up being successful (n = 234) comparing with those were launched in December (n = 111). With that being said, date that a project was launched could be a factor that impact whether or not it get a positive outcome.  
 
-![alt text](images/Date created.png)
+![alt text](https://github.com/gemelodyyu/Kickstart-Campaigns-Analysis/blob/master/images/Date%20created.png)
 
 ### Limitations
