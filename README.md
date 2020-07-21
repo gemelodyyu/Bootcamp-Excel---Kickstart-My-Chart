@@ -23,4 +23,5 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ![alt text](https://github.com/gemelodyyu/Kickstart-Campaigns-Analysis/blob/master/images/Date%20created.png)
 
+
 ### Limitations
