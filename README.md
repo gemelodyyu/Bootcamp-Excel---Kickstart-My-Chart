@@ -45,4 +45,4 @@ Given the current dataset, I believe the median summarizes the data more meaning
 
 #### * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-To compare the variability between successful and unsuccessful campaigns, I calculated the coefficient of variation (standard deviation/mean) for each group, which is a standardized measure of dispersion. 
+To compare the variability between successful and unsuccessful campaigns, I calculated the coefficient of variation (standard deviation/mean) for each group, which is a standardized measure of dispersion.
