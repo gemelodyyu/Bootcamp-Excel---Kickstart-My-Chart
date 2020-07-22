@@ -41,5 +41,7 @@ Another limitation is that because these projects come from different countries 
 #### * Use your data to determine whether the mean or the median summarizes the data more meaningfully.
 ![alt text](https://github.com/gemelodyyu/Kickstart-Campaigns-Analysis/blob/master/images/backers%20count%20summary.png)
 
+Given the current dataset, I believe the median summarizes the data more meaningful comparing with the mean. Becasue for both successful and failed groups, the variance and standard deviation are both vary large, indicating the present of outliners in the dataset. The mean will be affected by the outliners, but the median will not. So the median will be a better parameter to use to describe the central tendency in this case. 
+
 #### * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
