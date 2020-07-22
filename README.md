@@ -27,6 +27,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ### Limitations of this dataset
 
 The purpose of this analysis is to discover some trick for finding success in the Kickstart campaigns. Although the category, sub-category, and the launched data have some influence on whether or not each project will have a positive outcome, it is still hard to draw the conclusion that these variables have a causal relationship with being successful in the Kickstart campaigns. Even within the most successful category or sub-category, there are still many failed or canceled cases. It would be better if we could have more information, such as how the successful project are presented, or why the backers supported certain project. Thereby, we could have a better understanding of how to become successful in this Kickstart campaigns. 
+
 Another limitation is that because these projects come from different countries across the world, the currency is different across each project. So we cannot directly compare the goal and pledged on different currency scales. 
 
 
