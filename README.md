@@ -33,6 +33,9 @@ Another limitation is that because these projects come from different countries 
 
 ### What are some other possible tables and/or graphs that we could create?
 
+1.	We could do statistical analysis on successful rate of each category/sub-category, and compare the percent funded within and/or across categories/sub-categories. 
+2.	We could also calculate timeline (the time slot between data created and data ended) of each project, and compare the timeline between successful verse failed projects. We could see if there is a relationship between how much time were spent on a project and whether or not it would succeed. 
+
 
 ### * Backers count Statistical Analysis
 #### * Use your data to determine whether the mean or the median summarizes the data more meaningfully.
