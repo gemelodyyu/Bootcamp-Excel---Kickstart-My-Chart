@@ -41,8 +41,8 @@ Another limitation is that because these projects come from different countries 
 #### * Use your data to determine whether the mean or the median summarizes the data more meaningfully.
 ![alt text](https://github.com/gemelodyyu/Kickstart-Campaigns-Analysis/blob/master/images/backers%20count%20summary.png)
 
-Given the current dataset, I believe the median summarizes the data more meaningful comparing with the mean. Becasue for both successful and failed groups, the variance and standard deviation are both vary large, indicating the present of outliners in the dataset. The mean will be affected by the outliners, but the median will not. So the median will be a better parameter to use to describe the central tendency in this case. 
+Given the current dataset, I believe the median summarizes the data more meaningful comparing with the mean. Because for both successful and failed groups, the variance and standard deviation are both vary large, indicating the present of outliners in the dataset. The mean will be affected by the outliners, but the median will not. So the median will be a better parameter to use to describe the central tendency in this case. 
 
 #### * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-To compare the variability between successful and unsuccessful campaigns, I calculated the coefficient of variation (standard deviation/mean) for each group, which is a standardized measure of dispersion.
+To compare the variability between successful and unsuccessful campaigns, I calculated the coefficient of variation (standard deviation/mean) for each group, which is a standardized measure of dispersion. The coefficient of variation for successful campaigns is 4.34, and 3.47 for unsuccessful campaigns. Thereby, there is more variability with successful campaigns. I believe it make sense because successful campaigns could have as many as possible backers to support in order to make them successful; but the unsuccessful campaigns usually have limited backers to support them, which make them didn't reach the goal. 
